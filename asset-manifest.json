@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/FoxTravel/static/css/main.254f7aec.css",
-    "main.js": "/FoxTravel/static/js/main.51a289e8.js",
-    "static/media/Rectangle 1907 (1).png": "/FoxTravel/static/media/Rectangle 1907 (1).f3bc772c406aa0088cb2.png",
-    "static/media/Rectangle 1907.png": "/FoxTravel/static/media/Rectangle 1907.8e4b6a0586294dd5d98c.png",
-    "static/media/Rectangle 1908.png": "/FoxTravel/static/media/Rectangle 1908.06e9baacd136e9587a70.png",
-    "static/media/Calendar.png": "/FoxTravel/static/media/Calendar.62c847714631970fe434.png",
-    "static/media/Rectangle 1911 (3).png": "/FoxTravel/static/media/Rectangle 1911 (3).3ab03f0f4ac7c4907f0a.png",
-    "static/media/Rectangle 1911 (1).png": "/FoxTravel/static/media/Rectangle 1911 (1).394333c93e3ec171b34f.png",
-    "static/media/Rectangle 1911 (2).png": "/FoxTravel/static/media/Rectangle 1911 (2).532173803a51989e4e86.png",
-    "static/media/Rectangle 1911.png": "/FoxTravel/static/media/Rectangle 1911.4092d6a83140f64829fc.png",
-    "static/media/offer.png": "/FoxTravel/static/media/offer.56c24042fd20859f005b.png",
-    "index.html": "/FoxTravel/index.html",
-    "main.254f7aec.css.map": "/FoxTravel/static/css/main.254f7aec.css.map",
-    "main.51a289e8.js.map": "/FoxTravel/static/js/main.51a289e8.js.map"
+    "main.css": "/foxtravel/static/css/main.254f7aec.css",
+    "main.js": "/foxtravel/static/js/main.f76b556c.js",
+    "static/media/Rectangle 1907 (1).png": "/foxtravel/static/media/Rectangle 1907 (1).f3bc772c406aa0088cb2.png",
+    "static/media/Rectangle 1907.png": "/foxtravel/static/media/Rectangle 1907.8e4b6a0586294dd5d98c.png",
+    "static/media/Rectangle 1908.png": "/foxtravel/static/media/Rectangle 1908.06e9baacd136e9587a70.png",
+    "static/media/Calendar.png": "/foxtravel/static/media/Calendar.62c847714631970fe434.png",
+    "static/media/Rectangle 1911 (3).png": "/foxtravel/static/media/Rectangle 1911 (3).3ab03f0f4ac7c4907f0a.png",
+    "static/media/Rectangle 1911 (1).png": "/foxtravel/static/media/Rectangle 1911 (1).394333c93e3ec171b34f.png",
+    "static/media/Rectangle 1911 (2).png": "/foxtravel/static/media/Rectangle 1911 (2).532173803a51989e4e86.png",
+    "static/media/Rectangle 1911.png": "/foxtravel/static/media/Rectangle 1911.4092d6a83140f64829fc.png",
+    "static/media/offer.png": "/foxtravel/static/media/offer.56c24042fd20859f005b.png",
+    "index.html": "/foxtravel/index.html",
+    "main.254f7aec.css.map": "/foxtravel/static/css/main.254f7aec.css.map",
+    "main.f76b556c.js.map": "/foxtravel/static/js/main.f76b556c.js.map"
   },
   "entrypoints": [
     "static/css/main.254f7aec.css",
-    "static/js/main.51a289e8.js"
+    "static/js/main.f76b556c.js"
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "homepage": "https://misudesu.github.io/FoxTravel",
-  "name": "FoxTravel",
+  "homepage": "https://misudesu.github.io/foxTravel",
+  "name": "foxtravel",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

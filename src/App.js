@@ -1,4 +1,5 @@
 import {HashRouter as Router,Route,Routes,Link,useLocation,Nav} from 'react-router-dom'
+
 import Home from './Page/Home'
 import Rightside from './Page/Rightside';
 import Side from './Page/Side'

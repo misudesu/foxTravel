@@ -12,7 +12,8 @@ module.exports = {
       card:'#1d2038',
       text:'#5F647E',
       white:'#FFF',
-      hover:'rgb(68 64 60)'
+      hover:'rgb(68 64 60)',
+      gray:'#F6FCE0'
     } ,
     extend: {},
   },

@@ -11,7 +11,9 @@ import wallet from '../img/noun-wallet-4547857 1.png'
 import logout from '../img/noun-logout-4587969 1.png'
 import fovourite from '../img/noun-rupee-842807 1.png'
 import Setting from '../img/noun-setting-4547794 1.png'
-import offer from '../img/offer.png'
+import group from '../img/Mask group (1).png'
+import  elleps  from '../img/Ellipse 77.png'
+import left from '../img/akar-icons_arrow-left.png'
 export default function Side() {
     const nav={
 side:[
@@ -26,8 +28,8 @@ logout:[{icon:logout,title:"Logout"}],
 
     }
   return (
-    <div >
-       <div className='flex text-text bg-card   fixed-left'>
+    <div className="bg-card ">
+       <div className='flex text-text bg-card   fixed-left hidone lg:viseable'>
        {/* <img src={img1} className=''/>
         */}
         <div className=' py-5 space-y-10 p-5'>
@@ -41,8 +43,14 @@ logout:[{icon:logout,title:"Logout"}],
         </div>
         </>
        ))}
-       <img src={offer} className="pt-10"/>
+      <div className='rounded-3xl bg-gray relative  '> 
+      <img src={group} className=""/>
+      <p className='absolute top-5 font-bold left-5 '>50% Discount!</p>
+<p className='absolute top-14 text-sm pr-5 left-5 '>Get a discount on certain days and don’t miss it.</p>
+<img src={elleps} className="absolute top-32 text-sm pr-5 left-5 animate-bounce"/>
+<img src={left} className="absolute top-32 text-sm py-1.5 left-7 animate-bounce"/>
 
+</div>
        {nav.logout.map((data,index)=>(
   <div key={index} className='flex gap-x-4'>
   <img src={data.icon}/>

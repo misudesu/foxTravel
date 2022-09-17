@@ -1,6 +1,6 @@
 {
-  "homepage": "https://misudesu.github.io/FoxTravel",
-  "name": "foxtravel",
+  "homepage": "https://misudesu.github.io/foxtravel",
+  "name": "FoxTravel",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+   "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

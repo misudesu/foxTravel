@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FoxTravel/static/css/main.254f7aec.css",
-    "main.js": "/FoxTravel/static/js/main.cdd2b87a.js",
+    "main.js": "/FoxTravel/static/js/main.51a289e8.js",
     "static/media/Rectangle 1907 (1).png": "/FoxTravel/static/media/Rectangle 1907 (1).f3bc772c406aa0088cb2.png",
     "static/media/Rectangle 1907.png": "/FoxTravel/static/media/Rectangle 1907.8e4b6a0586294dd5d98c.png",
     "static/media/Rectangle 1908.png": "/FoxTravel/static/media/Rectangle 1908.06e9baacd136e9587a70.png",
@@ -13,10 +13,10 @@
     "static/media/offer.png": "/FoxTravel/static/media/offer.56c24042fd20859f005b.png",
     "index.html": "/FoxTravel/index.html",
     "main.254f7aec.css.map": "/FoxTravel/static/css/main.254f7aec.css.map",
-    "main.cdd2b87a.js.map": "/FoxTravel/static/js/main.cdd2b87a.js.map"
+    "main.51a289e8.js.map": "/FoxTravel/static/js/main.51a289e8.js.map"
   },
   "entrypoints": [
     "static/css/main.254f7aec.css",
-    "static/js/main.cdd2b87a.js"
+    "static/js/main.51a289e8.js"
   ]
 }
